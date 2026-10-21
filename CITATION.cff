@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "如果引用本作品，请使用以下格式。"
+title: "人工智能发展背景下的内存需求与市场变化研究"
+abstract: "中学生信息科技综合研究：AI 时代的内存需求、价格变化与应对；含 65 页幻灯片、14 页论文与 45 分钟演讲稿。"
+authors:
+  - name: "地表最豪小组"
+date-released: "2026-10-21"
+license: "GPL-3.0-or-later"
+repository-code: "https://github.com/<你的用户名>/ai-memory-research"
+keywords:
+  - AI
+  - memory
+  - DRAM
+  - HBM
+  - school project
+  - presentation
